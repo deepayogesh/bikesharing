@@ -21,5 +21,3 @@
 
 In Tableau story for the Bike sharing program  
 (https://public.tableau.com/views/NYCBikeSharingProgram/Story4?:language=en-US&:display_count=n&:origin=viz_share_link) 
-
-![dashboard](dashboard.html)
