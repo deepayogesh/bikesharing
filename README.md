@@ -19,7 +19,7 @@
 -  Show the number of bike trips for all riders and genders for each hour of each day of the week
 -  Show the number of bike trips for each type of user and gender for each day of the week.
 
-In Tableau story for the Bike sharing program 
-(https://public.tableau.com/views/NYCBikeSharingProgram/Story4?:language=en-US&:display_count=n&:origin=viz_share_link)
+In Tableau story for the Bike sharing program  
+(https://public.tableau.com/views/NYCBikeSharingProgram/Story4?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 ![dashboard](dashboard.html)
