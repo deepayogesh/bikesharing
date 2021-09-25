@@ -20,4 +20,4 @@
 -  Show the number of bike trips for each type of user and gender for each day of the week.
 
 In Tableau story for the Bike sharing program 
-![link to dashboard](https://public.tableau.com/shared/B8BYPQ8PG?:display_count=n&:origin=viz_share_link)
+![dashboard](dashboard.html)
