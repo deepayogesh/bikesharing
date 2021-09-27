@@ -4,15 +4,18 @@
 
 ### Bike trip analysis and Visualization
 - (1)
- Almost 12 hours in a weekday we see the bike sharing was actively used by subscribers in higher number.
+ Almost 12 hours in a weekday we see the bike sharing was actively used by subscribers in higher number as displayed in this graph.
+![biketripsbyuserandgender.png](https://github.com/deepayogesh/bikesharing/blob/c5e9a18cc8bed594dac19253e71395993490e20d/biketripsbyuserandgender.png)
 	
 - (2)
  We saw higher number of trip duration up to 12 hours in a day.
 - (3)
  In this observation we highest number of all gender types were actively participating 8 am to 8 pm. 
-
+![bikecheckoutbygender.png](https://github.com/deepayogesh/bikesharing/blob/c5e9a18cc8bed594dac19253e71395993490e20d/bikecheckoutbygender.png)
 - (4)
- Large Number of Male Subscribers were participating in the bike sharing  program .
+ Large Number of Female Subscribers were participating on Thursday in the bike sharing  program .
+As we can see in the following graph.
+![bikeridersinweekbygender.png](https://github.com/deepayogesh/bikesharing/blob/c5e9a18cc8bed594dac19253e71395993490e20d/bikeridersinweekbygender.png)
 
 	 Dashboard for this data Visualization 
 	 [link to dashboard](https://public.tableau.com/views/NYCBikeSharingProgram/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
